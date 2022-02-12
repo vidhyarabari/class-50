@@ -1,0 +1,23 @@
+
+            h1 {
+                color: brown;
+            }
+
+    .header * {
+    border: solid;
+    }
+    .header{
+        background-color: blueviolet;
+        display:flex;
+        justify-content : space-around;
+    }
+    .grid{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .icon{
+        display:flex;
+        justify-content: flex-end;
+    }
+        
